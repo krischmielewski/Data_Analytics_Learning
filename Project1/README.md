@@ -1,4 +1,5 @@
 Hypotheses to explore:
+
 There is a relationship between the breed and the country of origin of a dog.
 Certain eye colors are more common in certain breeds of dogs.
 The fur color of a dog is related to its breed.
