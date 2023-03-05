@@ -8,5 +8,5 @@ Project 1 - Dog breeds study
 Project 2 - Housing data study
 - Basic data cleaning, analysis and visualisation
 
-Project 3 - Mean Software Developer Salary and cost of living in USA study
+Project 3 - Mean software developer salary and cost of living in USA study
 - Basic data cleaning, analysis and visualisation
