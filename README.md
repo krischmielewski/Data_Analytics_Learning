@@ -10,3 +10,6 @@ Project 2 - Housing data study
 
 Project 3 - Mean software developer salary and cost of living in USA study
 - Basic data cleaning, analysis and visualisation
+
+Project 4 - Data Analyst - Salaries
+- Basic data cleaning, analysis and visualisation
